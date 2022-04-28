@@ -1,0 +1,18 @@
+{
+  "name": "ejs",
+  "version": "1.0.0",
+  "description": "Criação de um site simples com o EJS",
+  "main": "./server.js",
+  "repository": "git@github.com:deibsoncogo/EJS.git",
+  "author": "Deibson Cogo <deibsoncogo@outlook.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
